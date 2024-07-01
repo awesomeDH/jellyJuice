@@ -1,2 +1,2 @@
-# jjuice
+# jellyJuice
 Unknown instance Jjuice
